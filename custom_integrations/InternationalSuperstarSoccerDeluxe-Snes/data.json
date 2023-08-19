@@ -1,0 +1,24 @@
+{
+  "info": {
+    "half": {
+      "address": 8257704,
+      "type": "|u1"
+    },
+    "p1_score": {
+      "address": 8261282,
+      "type": "|u1"
+    },
+    "p1_shots": {
+      "address": 8261290,
+      "type": "|u1"
+    },
+    "p2_score": {
+      "address": 8261026,
+      "type": "|u1"
+    },
+    "p2_shots": {
+      "address": 8261034,
+      "type": "|u1"
+    }
+  }
+}

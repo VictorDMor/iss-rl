@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "iss-rl"
+version = "0.1.0"
+description = "An AI that plays International Superstar Soccer Deluxe (SNES)"
+authors = ["Victor Moraes"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "iss_rl"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+gym-retro = "^0.8.0"
+opencv-python = "^4.8.0.76"
+
+[tool.poetry.group.dev.dependencies]
+gym-retro = "^0.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
