@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # video folders
+video/
 video_testing/
 video_training/
