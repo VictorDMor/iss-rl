@@ -132,3 +132,6 @@ dmypy.json
 video/
 video_testing/
 video_training/
+
+# .whl files
+*.whl
